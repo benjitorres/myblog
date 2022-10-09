@@ -7,4 +7,4 @@ date = "2022-10-08"
 <p>Favorite quote: <em>The sun, as Heraclitus says, is new everyday.</em></p>
 <p>Favorite writers: <a href="https://simonsarris.substack.com/">Simon Sarris</a> and <a href="https://danluu.com/">Dan Luu</a></p>
 
-<!-- Thanks to Dan Luu for all the content taking. I owe alot to him ! >
+<!-- Thanks to Dan Luu for all the content taking. I owe alot to him ! -->
