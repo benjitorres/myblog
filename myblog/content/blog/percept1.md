@@ -1,8 +1,10 @@
 +++
-title = "1st Perception Paper"
-date = 2022-10-08
+title = "Philosophy: 1st Perception Paper"
+date = 2022-10-09
 +++
-<p>This isn't my first paper in the Fall semester. </p>
+<p>This isn't my first paper in the Fall semester but it is my first philosophy paper ever. I read someone else's paper and they answer the same prompt.</p> 
+<p><em>"Dretske argues that perception is not permeated by cognition. How does his argument go? Do you find it convincing? Discuss. In writing this essay, be precise not only about what Dretske is affirming, but also about what he is denying. Please bring in at least one other author we have read (e.g. Siegel, Anscombe, Strawson)."</em></p>
+<p>My problem isn't that my argument is invalid. I think it's valid. I just don't think I represented the arguments correctly based on what I read from the other person's paper.</p>
 <p>In this paper, I will present Fred Dretske’s argument against Susanna Siegel's claim that there exist properties only within cognition and not perception that can change the way you see something. In section I, I will introduce both arguments and explain their key terms. In section II, I will go over Dretske’s main argument, what he’s not saying, and explain the Goldilocks test. In section III, I will go over a potential circularity problem from Siegel, raise a question about Dretske’s Goldilocks test from the perspective of Siegel, and include a potential response from Dretske. Section IV will include a disagreement with the potential response from Dretske by introducing the idea of time and my conclusion.</p>
 <p>I</p>
 <p>Siegel’s relevant argument to Dretske comes from “thesis K”. Siegel’s Thesis K is that “In some visual experiences, some K-properties are represented” (Siegel, pp. 2). Siegel defines K-properties as “...any properties other than color, shape, illumination, motion, their co-instantiation in objects and succession thereof” (Siegel, pp. 2). It’s hard to imagine properties that are outside of this scope. However, it’s possible to imagine these properties as something essential to an object yet indescribable. Another way to explain this is that it has something to do with cognition, not perception, yet it changes how you see something. It’s similar to trying to describe the essence of an object while removing properties such as colors and shapes. This is a helpful way of thinking about it because it’s related to Dretske’s example.</p>
@@ -18,3 +20,9 @@ date = 2022-10-08
 <p>IV</p>
 <p>It’s possible that there isn’t some K-property that changes your perception while seeing something wrong in the environment. However, an important factor to consider which I don’t think Dretske brings up is time. Let’s say that N paints a pine tree in a desert but it’s night time so all E sees for this short time, is a pine tree but E feels that something is off about the painting. E can’t put his finger on it but there is definitely something wrong in what he sees. In this short time, is E not experiencing something which Siegel would say is related to a K-property? If you take two images and something changes but you can’t tell what and you feel like something is different then you might experience the same feeling. Due to the word limit, I’m not sure what a Dretske response would look like.</p>
 <p>Dretske doesn’t expand past the idea of the pine tree. However, I believe that Dretske and Siegel are talking about something more than just a pine tree. It seems like what Dretske and Siegel are getting at is the essence of an object which is a topic that goes back to the time of Plato and Aristotle. I’m uncertain that Dretske or Siegel would argue that the essence of an object includes visual properties. The reason for this is because we can take something like a vehicle and assign to it different colors and shapes and say that it’s still a vehicle. We can remove or add properties like wheels and it would still fit the description of a vehicle. It would be interesting to see Dretske and Siegel come up with an answer to the question, “What is the essence of an object?” if they came together to share ideas.</p>
+<p>Works Cited: </p>
+
+<p>Dretske, Fred. “Perception versus Conception.” The Cognitive Penetrability of Perception, 2015,
+pp. 1–10., https://doi.org/10.1093/acprof:oso/9780198738916.003.0007.</p>
+
+<p>Siegel, Susanna. “Which Properties Are Represented in Perception?” Perceptual Experience, 2006, pp. 1–26., https://doi.org/10.1093/acprof:oso/9780199289769.003.0015.</p>
