@@ -3,7 +3,7 @@ title = "Non-trivial but also not 4 years"
 date = 2022-10-09
 +++
 
-<p><em> True desire to crank. </em>Thanks to Jonathan <a href="https://www.youtube.com/watch?v=I0s1MXRxPLw">Blow</a>.</p>
+<p><em> True desire to crank. </em>Thanks to Jonathan <a target="_blank" href="https://www.youtube.com/watch?v=I0s1MXRxPLw">Blow</a>.</p>
 
 <p><strong>--Things to Learn--</strong></p>
 <p>Time complexity<br></p>
