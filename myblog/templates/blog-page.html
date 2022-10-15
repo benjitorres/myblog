@@ -4,7 +4,33 @@
 <h1 class="title">
   {{ page.title }}
 </h1>
-  <a href="https://baeaen.com">All</a>
-<p class="subtitle"><strong>{{ page.date }}</strong></p>
-{{ page.content | safe }}
+
+<h3>
+  <a href="https://baeaen.com">Home</a>
+</h3>  
+
+<h4>
+  <p class="subtitle"><strong>{{ page.date }}</strong></p>
+</h4>
+
+
+<style>
+  h1{
+      text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  p{
+    text-overflow: ellipsis;
+    width: 325px;
+    white-space: wrap;
+    overflow: hidden;
+  }
+</style>
+
+<!-- thanks to Alex for the help on limiting text!: https://stackoverflow.com/questions/2757483/limiting-the-number-of-characters-per-line-with-css-->
+
+<p>{{ page.content | safe }}</p>
 {% endblock content %}
