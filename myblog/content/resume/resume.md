@@ -16,6 +16,7 @@ Berkeley City College (2018 - 2019)</p>
 
 <p><strong>Graduated High School in 2018</strong></p>
 
+<br>
 
 <p><strong>Work:</strong></p>
 
