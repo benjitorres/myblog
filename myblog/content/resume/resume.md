@@ -5,18 +5,19 @@ date = "2022-10-08"
 
 <p><strong>Education:</strong></p>
 
-<p><strong>UC Berkeley (2022 - 2024)</strong><br>
+<p>
+<b>UC Berkeley</b><br>
+(2022 - 2024)<br>
 Level: Undergraduate<br>
 Major: Philosophy
-</p>
 
-<p><strong>Community Colleges (2018 - 2022)</strong><br>
-City College of San Francisco (2019 - 2022)<br>
-Berkeley City College (2018 - 2019)</p>
+<b>City College of San Francisco</b><br>
+(2019 - 2022)
 
-<p><strong>Graduated High School in 2018</strong></p>
+<b>Berkeley City College</b><br>
+(2018 - 2019)</p>
 
-<br>
+
 
 <p><strong>Work:</strong></p>
 
