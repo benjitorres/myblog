@@ -3,19 +3,26 @@ title = "About me"
 date = "2022-10-08"
 +++
 <strong>Me:</strong><br>
-<p>I'm Benjamin Torres. I go to *the* <em>University of California</em>. I will gradute in 2024. I major in philosophy.</p>
+<p>I'm Benjamin Torres. I go to UC Berkeley. I major in philosophy. Go Bears.</p>
 
-<p>Why philosophy? Because I love it. Kinda. The more classes I take the more I love it less and less. I don't know why. I don't care a whole lot about details in philosophy or about <em>transcedental idealism</em> or any of these things. I care about learning the truth about hard questions but it seems like we never get there in philosophy because there are a lot of counter-examples. But here I am!</p> 
-
-<p>I'm slow at learning. I'm impatient also. Unlucky!</p>
 <br>
 <p>
-<strong>Ideals:</strong><br>
-"Don't fake it till you make it. Be honest and hope you make it. The whole way." - <a href="https://youtu.be/_L3gNaAVjQ4?t=8034" target="_blank">Geohot</a><br><br>
-I want to start a family and continue the "Torres" name. I want to get married. I want to fall in love.<br><br>
-I hope to always be sincere and optimistic about the future. I hope when I die I'm not remembered for how much or how little money I made but rather for the things I did and how I treated people.<br><br>
-I hope to make life long friends and meet with them to celebrate life as much as possible.<br><br>
-I hope to become a pillar of my community.<br><br>
+<strong>Beliefs:</strong><br>
+"Don't fake it till you make it. Be honest and hope you make it. The whole way." - <a href="https://youtu.be/_L3gNaAVjQ4?t=8034" target="_blank">Geohot</a><br>
+
+Dating apps should be skilled based matchmaking.<br>
+
+If what you are working on is not important and not likely to lead to important things, then why are you working on it?<br>
+
+I will figure it out.<br>
+
+In the future, the quality of life to be higher for everyone and every person will have better access to education (not necessarily in the form of universities today).<br>
+
+When I die I won't be remembered for how much or how little money I made but rather for the things I did and how I treated people.<br>
+
+I am celebrating life as much as I can.<br>
+
+I hope to become a pillar of my community.<br>
 I hope I give more than I take.
 </p>
 <br>

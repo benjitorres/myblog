@@ -7,7 +7,7 @@ date = "2022-10-11"
 
 I'm going to list out the positives and negatives of getting into a relationship with me. The negatives are mainly physical and the positives are mainly personality-wise. The good thing is that 3 of 4 negatives can be fixed. The positives <b>will</b> outweigh the negatives. 
 
-If you want to know more about what I value then you can go to my <a target="_blank" href="https://baeaen.com/aboutme/about">ideals</a> section in my about me page. <br>
+If you want to know more about what I value then you can go to my <a target="_blank" href="https://baeaen.com/aboutme/about">beliefs</a> section in my about me page. <br>
 
 Positives:
 1. romantic
