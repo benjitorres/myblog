@@ -20,5 +20,9 @@ I should have gone into Classics. Classics and fiction seem to offer more truths
 
 Philosophy will always be one of my favorite things. Just outside of educational institutions. 
 
+Today in class, we spent lecture going over the professor's research. He brought up some ideas about perception, came up with new ideas on the fly, and had no end goal. That's the impression I left with. We made contributions to his research, I don't think anyone is going to be credited, and it seems like he just wanted feedback. This is good if you care about the professor's research but now I ask myself throughout lecture, <em>why does this matter?</em> and the answer is always <em>it doesn't.</em> 
+
+Is this what passes for philosophy nowadays?
+ 
 My favorite work by Bostrom is <a href="https://nickbostrom.com/papers/pascal.pdf" target="_blank"><em>Pascal's Mugging</em></a>
 </p> 
