@@ -4,10 +4,27 @@
 <h1 class="title">
     I'm Benjamin Torres. Don't Be Evil.
 </h1>
+<div="">
+    <img src="https://media.nga.gov/iiif/80225aca-5677-44d3-af41-685c00832eef/full/full/0/default.jpg?attachment_filename=a_comic_actor_dressed_as_a_gentleman__recto__1996.25.1.a.jpg" alt="A Comic Actor Dressed as a Gentleman by Jean-Baptiste Joseph Pater"/> 
+</div>
+
+
 <style>
     h1{
         text-align: center;
     }
+
+    img{
+        display: flexbox;
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0.35;
+    }
+
 </style>
 
 <p><a href="{{ get_url(path="@/blog/_index.md") }}">Posts</a></p>
