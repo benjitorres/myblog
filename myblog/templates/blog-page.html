@@ -9,11 +9,14 @@
   <a href="https://baeaen.com">Home</a>
 </h3>  
 
+<meta name="viewport" content="width=device-width">
+<!--meta thing only in blog-page for now, update if necessary whenever-->
+
 <h4>
   <p class="subtitle"><strong>{{ page.date }}</strong></p>
 </h4>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <style>
   h1{
@@ -30,6 +33,11 @@
     word-break: break-word;
     overflow: hidden;
   }
+  @media screen and (min-width: 700px) {
+  p{
+    margin-left: 75px;
+  }
+}
 </style>
 
 <!-- thanks to Alex for the help on limiting text!: https://stackoverflow.com/questions/2757483/limiting-the-number-of-characters-per-line-with-css-->
