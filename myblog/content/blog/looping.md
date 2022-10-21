@@ -1,6 +1,6 @@
 +++
 title = "Looping"
-date = 2022-10-20
+date = 2022-10-21
 +++
 
 Life is looping. Life is a loop. Think of tree rings. It's not a linear graph. You start off from the center as a small thing and then create circles around your life until you die. 
