@@ -26,7 +26,7 @@ NEGATIVES:
 2. fat
 3. no therapy
 4. no money (yet)
-5. my major is philoso
+5. my major is philosophy
 
 Picture of me (literally me):
 <img src="https://pbs.twimg.com/media/FeBRWPJXgAEnoNH?format=jpg&name=large" width="350" height="400"/>
