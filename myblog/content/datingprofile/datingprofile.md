@@ -17,9 +17,10 @@ POSITIVES:
 5. happy
 6. optimistic
 7. confident
-8. socially aware when it matters<br>
-9. protective (I grew up in Oakland (scary scary place !))
-10. I have unlimted pages at OCF
+8. protective [I grew up in Oakland (scary scary place!)]
+9. I have unlimted pages at <a href="https://www.ocf.berkeley.edu/" target="blank_">OCF</a>
+10. 20 push-ups in a row
+11. 1:15 plank 
 
 NEGATIVES:
 1. receding hairline
@@ -27,6 +28,10 @@ NEGATIVES:
 3. no therapy
 4. no money (yet)
 5. my major is philosophy
+6. not socially aware when it matters 
+7. awkward
+8. not ambitious
+9. scared to open up
 
 Picture of me (literally me):
 <img src="https://pbs.twimg.com/media/FeBRWPJXgAEnoNH?format=jpg&name=large" width="350" height="400"/>
