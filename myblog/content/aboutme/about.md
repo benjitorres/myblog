@@ -4,7 +4,7 @@ date = "2022-10-08"
 +++
 <strong>Me</strong>:
 
-I'm Benjamin Torres II. I only care about the things I care about until I'm bored (doesn't apply to people). I love my friends. I love my family. 
+I'm Benjamin Torres II. I love my friends. I love my family. 
 
 <br>
 <p>
@@ -48,4 +48,7 @@ family
 
 <a href="https://simonsarris.substack.com/" target="_blank">Simon Sarris</a> and <a href="https://danluu.com/" target="_blank">Dan Luu</a></p>
 
+<p><strong>Contact</strong>: 
+Twitter: benbaeaen
+Instagram: moltarisgood
 <!-- Thanks to Dan Luu for all the content taking. I owe alot to him ! -->
