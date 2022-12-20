@@ -1,23 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-    I'm Benjamin Torres. Don't Be Evil.
-</h1>
 
-<style>
-    h1{
-        text-align: center;
-    }
-</style>
+<p>Benjamin Torres II</p>
+<ul>
+    <li>
+        <p>Philosophy student @ UC Berkeley</p>
+    </li>
+    <li>
+        <p>What am I working on?</p>
+    </li>
+</ul>
 
-<p><a href="{{ get_url(path="@/blog/_index.md") }}">Posts</a></p>
-
-<p><a href="{{ get_url(path="@/aboutme/about.md") }}">About Me</a></p>
-
-<p><a href="{{ get_url(path="@/datingprofile/datingprofile.md") }}">Dating Profile</a></p>
-
-<p><a href="{{ get_url(path="@/resume/resume.md") }}">Resume</a></p>
-
-<p><a href="{{ get_url(path="@/projects/projects.md") }}">Projects</a></p>
 {% endblock content %}
